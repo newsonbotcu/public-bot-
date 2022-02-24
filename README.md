@@ -1,6 +1,6 @@
 # public-bot
 
-Botlar toplamda 13 tane (5 Guard, Moderasyon, Kayıt&Genel, İstatistik, 5Welcome, Backup) bulunuyor.
+Botlar toplamda 14 tane (5 Guard, Moderasyon, Kayıt&Genel, İstatistik, 5Welcome, Backup) bulunuyor.
 
 Botlar aşşağıda gördüğünüz gibi daha da eklemeler yapıcağım paylaşa bilirimde
 
