@@ -13,22 +13,13 @@ Fiyat hakkında konuşmak isteyenler luhux 🤮#1000 / 341592492224806914 / disc
  <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946351632843681872/unknown.png"/> 
 </div>
 <div align="center">
- <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946351632843681872/unknown.png"/> 
-</div>
-<div align="center">
  <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946352527971057705/unknown.png"/> 
 </div>
 <div align="center">
- <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946352606475878410/unknown.png"/> 
-</div>
-<div align="center">
- <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946352606475878410/unknown.png"/> 
-</div>
-<div align="center">
- <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946352606475878410/unknown.png"/> 
-</div>
-<div align="center">
  <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946352752748036126/unknown.png"/> 
+</div>
+<div align="center">
+ <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946353051961274398/unknown.png"/> 
 </div>
 <div align="center">
  <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946353888821391400/unknown.png"/> 
@@ -37,19 +28,13 @@ Fiyat hakkında konuşmak isteyenler luhux 🤮#1000 / 341592492224806914 / disc
  <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946354363960537138/unknown.png"/> 
 </div>
 <div align="center">
- <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946354363960537138/unknown.png"/> 
-</div>
-<div align="center">
- <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946354363960537138/unknown.png"/> 
-</div>
-<div align="center">
  <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946354806090502144/unknown.png"/> 
 </div>
 <div align="center">
- <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946354837380030474/unknown.png"/> 
+ <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946355472531861525/unknown.png"/> 
 </div>
 <div align="center">
- <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946355472531861525/unknown.png"/> 
+ <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946357177185083412/unknown.png"/> 
 </div>
 <div align="center">
  <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946357366272716850/unknown.png"/> 
