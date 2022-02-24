@@ -2,7 +2,7 @@
 
 Botlar toplamda 13 tane (5 Guard, Moderasyon, Kayıt&Genel, İstatistik, 5Welcome, Backup) bulunuyor.
 
-Botlar aşşağıda gördüğünüz gibi daha da eklemeler yapıcağım 
+Botlar aşşağıda gördüğünüz gibi daha da eklemeler yapıcağım paylaşa bilirimde
 
 Fiyat hakkında konuşmak isteyenler luhux 🤮#1000 / 341592492224806914 / discord.gg/0001
 
