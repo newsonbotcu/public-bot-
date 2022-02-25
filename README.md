@@ -1,8 +1,9 @@
 # public-bot
+Bunlar public için 
 
 Botlar toplamda 14 tane (5 Guard, Moderasyon, Kayıt&Genel, İstatistik, 5Welcome, Backup) bulunuyor.
 
-Botlar aşşağıda gördüğünüz gibi daha da eklemeler yapıcağım paylaşa bilirimde
+Botlar aşşağıda gördüğünüz gibi daha da eklemeler yapıcağım
 
 Fiyat hakkında konuşmak isteyenler luhux 🤮#1000 / 341592492224806914 / discord.gg/0001
 
@@ -39,6 +40,22 @@ Fiyat hakkında konuşmak isteyenler luhux 🤮#1000 / 341592492224806914 / disc
 <div align="center">
  <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946357366272716850/unknown.png"/> 
 </div>
+<div align="center">
+ <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946786308783767623/unknown.png"/> 
+</div>
+<div align="center">
+ <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946787483838971956/unknown.png"/> 
+</div>
+<div align="center">
+ <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946787748939964476/unknown.png"/> 
+</div>
+<div align="center">
+ <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946787748939964476/unknown.png"/> 
+</div>
+<div align="center">
+ <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946788829870837830/unknown.png"/> 
+</div>
+
 
 
 
