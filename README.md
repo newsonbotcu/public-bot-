@@ -55,6 +55,21 @@ Fiyat hakkında konuşmak isteyenler luhux#1000 / 341592492224806914 / discord.g
 <div align="center">
  <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946788829870837830/unknown.png"/> 
 </div>
+<div align="center">
+ <img alt="GIF" src="https://media.discordapp.net/attachments/935612378530328636/953676068911476787/unknown.png"/> 
+</div>
+<div align="center">
+ <img alt="GIF" src="https://media.discordapp.net/attachments/935612378530328636/953676573368782908/unknown.png"/> 
+</div>
+<div align="center">
+ <img alt="GIF" src="https://media.discordapp.net/attachments/935612378530328636/953676631698984980/unknown.png"/> 
+</div>
+<div align="center">
+ <img alt="GIF" src="https://media.discordapp.net/attachments/935612378530328636/953676007662043176/unknown.png"/> 
+</div>
+<div align="center">
+ <img alt="GIF" src="https://media.discordapp.net/attachments/935612378530328636/953676363779420240/unknown.png"/> 
+</div>
 
 
 
