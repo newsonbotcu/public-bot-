@@ -76,6 +76,9 @@ Fiyat hakkında konuşmak isteyenler luhux#1000 / 341592492224806914 / discord.g
 <div align="center">
  <img alt="GIF" src="https://media.discordapp.net/attachments/948177337957122078/956229555738275910/unknown.png"/> 
 </div>
+<div align="center">
+ <img alt="GIF" src="https://cdn.discordapp.com/attachments/948177313315565619/957750825277616138/unknown.png"/> 
+</div>
 
 
 
