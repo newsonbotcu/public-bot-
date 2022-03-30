@@ -7,6 +7,7 @@ Botlar aşşağıda gördüğünüz gibi daha da eklemeler yapıcağım
 
 Fiyat hakkında konuşmak isteyenler luhux#1000 / 341592492224806914 / discord.gg/0001
 
+Resimleri detaylı atıyorum 
 <div align="center">
  <img alt="GIF" src="https://cdn.discordapp.com/attachments/946037586785361980/946351600228761620/unknown.png"/> 
 </div>
