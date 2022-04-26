@@ -5,7 +5,7 @@ Botlar toplamda 14 tane (5 Guard, Moderasyon, Kayıt&Genel, İstatistik, 5Welcom
 
 Botlar aşşağıda gördüğünüz gibi daha da eklemeler yapıcağım
 
-Fiyat hakkında konuşmak isteyenler luhux#1000 / 341592492224806914 / discord.gg/rvt
+Fiyat hakkında konuşmak isteyenler luhux#1000 / 341592492224806914 
 
 Resimleri detaylı atıyorum 
 <div align="center">
@@ -82,6 +82,9 @@ Resimleri detaylı atıyorum
 </div>
 <div align="center">
  <img alt="GIF" src="https://media.discordapp.net/attachments/948177293816258573/958802262317219920/unknown.png"/> 
+</div>
+<div align="center">
+ <img alt="GIF" src="https://media.discordapp.net/attachments/967420992253210716/968634746773078056/unknown.png?width=536&height=676"/> 
 </div>
 
 
